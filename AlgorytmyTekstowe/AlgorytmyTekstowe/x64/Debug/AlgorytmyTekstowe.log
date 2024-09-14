@@ -1,0 +1,10 @@
+﻿  AlgorytmyTekstowe.cpp
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(33,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(34,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(58,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(85,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(104,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(105,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(133,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\AlgorytmyTekstowe\AlgorytmyTekstowe.cpp(134,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AlgorytmyTekstowe.vcxproj -> C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyTekstowe\x64\Debug\AlgorytmyTekstowe.exe
