@@ -1,4 +1,0 @@
-﻿  AlgorytmyLiczbowe.cpp
-C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyLiczbowe\AlgorytmyLiczbowe\AlgorytmyLiczbowe.cpp(50,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyLiczbowe\AlgorytmyLiczbowe\AlgorytmyLiczbowe.cpp(73,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  AlgorytmyLiczbowe.vcxproj -> C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmyLiczbowe\x64\Debug\AlgorytmyLiczbowe.exe
