@@ -1,4 +1,0 @@
-﻿  AlgorytmySzyfrowania.cpp
-C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmySzyfrowania\AlgorytmySzyfrowania\AlgorytmySzyfrowania.cpp(63,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmySzyfrowania\AlgorytmySzyfrowania\AlgorytmySzyfrowania.cpp(90,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  AlgorytmySzyfrowania.vcxproj -> C:\Users\miesz\Desktop\Inne\Informatyka\AlgorytmySzyfrowania\x64\Debug\AlgorytmySzyfrowania.exe
