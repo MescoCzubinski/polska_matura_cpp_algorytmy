@@ -19,7 +19,7 @@ int main()
 	//sortowanieAlfabetyczne();
 	//anagramy();
 	//najdluzszyPodciag();
-	algorithm();
+	//algorithm();
 }
 
 void szukanieWzorca()
