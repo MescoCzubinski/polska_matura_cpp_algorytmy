@@ -68,7 +68,7 @@ int main()
     //wyszukiwanieLiniowe(tablicaNieposortowana, n);
     //wyszukiwanieBinarne(tablicaPosortowana, n);
     //wyszukiwanieMinMax(tablicaNieposortowana, n);
-     wyszukiwanieLider(tablicaLider, n);
+    //wyszukiwanieLider(tablicaLider, n);
     //sortowanieBabelkowe(tablicaNieposortowana, n);
     //sortowanieSelekcja(tablicaNieposortowana, n);
     //sortowanieWstawianie(tablicaNieposortowana, n);
@@ -137,7 +137,7 @@ void wyszukiwanieMinMax(int* tablica, int dlugosc)
         }
     }
 
-    if (dlugosc % 2 == 1) //jesli liczba elementów jest nieparzysta
+    if (dlugosc % 2 == 1) //jesli liczba elementÃ³w jest nieparzysta
     {
         if (tablica[dlugosc - 1] > max) 
             max = tablica[dlugosc - 1];
